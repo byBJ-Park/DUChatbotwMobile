@@ -34,11 +34,7 @@
 
 ## 성능 비교
 
-| 모델        | BLEU | METEOR | ROUGE |
-|-------------|------|--------|--------|
-| PEFT (LoRA) | 낮음 | 보통   | 보통   |
-| RAG         | 중간 | 높음   | 높음   |
-| **Hybrid**  | **최고** | **최고** | **최고** |
+![image](https://github.com/user-attachments/assets/0a3fbfad-dc38-45a6-ad16-3664557280da)
 
 - 평가 데이터: 웹 크롤링으로 수집한 동서울대 Q/A 720쌍  
 - 성능 지표: BLEU, METEOR, ROUGE  
