@@ -1,7 +1,7 @@
 # 모바일 환경 음성 기반 PEFT-RAG 로컬 챗봇
 
-> PEFT(LoRA)와 RAG 방식을 혼합한 하이브리드 챗봇 모델  
-> Android / iOS 환경에서 음성으로 동작하는 로컬 챗봇 구현
+-PEFT(LoRA)와 RAG 방식을 혼합한 하이브리드 챗봇 모델  
+-Android / iOS 환경에서 음성으로 동작하는 로컬 챗봇 구현
 
 ---
 
